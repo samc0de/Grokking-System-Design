@@ -51,6 +51,7 @@ SQL vs. NoSQL
   - Horizontally scalable (across multiple servers); but it can be challenging and time-consuming.
 - NoSQL
   - Horizontablly scalable (by adding more servers) and cheap.
+  - Eventual consistency, or the BASE properties (in contrast to the ACID)
 
 ### ACID
 - Atomicity, consistency, isolation, durability
