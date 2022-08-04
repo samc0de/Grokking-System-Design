@@ -50,8 +50,7 @@ SQL vs. NoSQL
   - Vertically scalable (by increasing the horsepower: memory, CPU, etc) and expensive.
   - Horizontally scalable (across multiple servers); but it can be challenging and time-consuming.
 - NoSQL
-  - Horizontablly scalable (by adding more servers) and cheap.
-  - Eventual consistency, or the BASE properties (in contrast to the ACID)
+  - Horizontablly scalable (by adding more servers) and cheap
 
 ### ACID
 - Atomicity, consistency, isolation, durability
@@ -60,7 +59,8 @@ SQL vs. NoSQL
   - Data reliability
   - Gurantee of transactions
 - NoSQL
-  - Most sacrifice ACID compliance for performance and scalability.
+  - Most sacrifice ACID compliance for performance and scalability..
+  - Eventual consistency, or the BASE properties (in contrast to the ACID)
 
 ## Which one to use?
 ### SQL
